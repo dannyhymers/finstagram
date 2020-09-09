@@ -1,0 +1,13 @@
+header {
+  background-color: #244751;
+  color: #E8FDFF;
+}
+body {
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap" rel="stylesheet">
+}
+  a.photo{
+    transition: padding 0.5s;
+  }
+  a.photo:hover{
+    padding: 10px;
+  }
